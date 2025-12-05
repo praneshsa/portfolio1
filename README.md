@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo  
 Add your deployed link here (GitHub Pages / Netlify):  
-👉 https://your-username.github.io/portfolio/
+👉 https://praneshsa.github.io/portfolio1/
 
 ---
 
