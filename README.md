@@ -55,8 +55,3 @@ Add your deployed link here (GitHub Pages / Netlify):
 
 ---
 
-## ⚡ How to Run Locally
-
-1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/your-username/portfolio-website.git
