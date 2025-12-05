@@ -41,10 +41,6 @@ Add your deployed link here (GitHub Pages / Netlify):
 ## 📂 Project Structure
 
 
-(Add more images here if your project has more assets.)
-
----
-
 ## 📸 Sections Included
 
 - **Home** – Name, title & profile image  
